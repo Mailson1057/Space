@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    color:black;
+    
+   
+    }
+h1{
+    color: rgb(0, 0, 0);
+    font-size:80px;
+ 
+}
+#sobre{
+    margin-left: 25px;
+    font-size: 15px;
+    
+
+
+}
+
+a{
+    color:rgb(22, 10, 187);
+    font-size: 18px;
+    
+}
+
+.texto{
+    background-repeat: no-repeat;
+}
+.rodape{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
